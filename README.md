@@ -2,7 +2,7 @@
 
 - The User List App is a simple web application that allows you to manage and display a list of users.
 - It provides features such as viewing user details, status, and access information.
-- Live demonstration: [User-List App]
+- Live demonstration: [User-List App](https://zingy-fudge-7f0521.netlify.app/)
 
 ---
 
